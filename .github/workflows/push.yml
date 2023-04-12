@@ -45,6 +45,8 @@ jobs:
   
   test:
   
+    needs: [build, lint]
+  
     runs-on: windows-latest
     
     steps:
