@@ -4,6 +4,8 @@
 #include "framework.h"
 #include "Application.h"
 
+aidan is introducing a compile error
+
 
 CoolClass::CoolClass(void)
 {
